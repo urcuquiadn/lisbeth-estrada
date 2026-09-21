@@ -273,7 +273,8 @@ FORMULARIO DE CONTACTO
 ============================================================ */
 const contactoForm = document.getElementById('contactoForm');
 const formMessage = document.getElementById('formMessage');
-const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbynUEx_b7HYCCEAcINg-HSDc79QKLN5brAw04Mqfs8yIL8cc3EXahl9Dq5eB79mT-_yqg/exec';
+const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycby_S_cCd_7PCDtr9HwU1kNbIF-Tdvce3IeW53IKjB-HDzUJLgBHrW6b0r7SXMPDOXF6/exec
+';
 
 if (contactoForm) {
     contactoForm.addEventListener('submit', async (e) => {
